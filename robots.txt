@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://erkinkaanark.github.io/sitemap.xml
+Sitemap: https://ekaana.github.io/sitemap.xml
