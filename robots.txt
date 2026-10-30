@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erkinkaanark.github.io/sitemap.xml
